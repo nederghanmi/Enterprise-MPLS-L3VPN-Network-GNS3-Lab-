@@ -6,7 +6,7 @@ Due to GitHub file size limitations, the complete GNS3 project is hosted externa
 
 ## 🔗 Download Link
 
-👉 https://your-drive-link-here
+👉 https://drive.google.com/file/d/1XsA-WRe6veUy8EwdyIgEGmyu6-M79uBk/view?usp=sharing)
 
 ---
 
